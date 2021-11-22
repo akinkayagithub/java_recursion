@@ -1,4 +1,4 @@
-# recursion
+# Recursion
 -Recursion is the technique of making a function call itself
 -Basically, one method is invoking itself
 -Infinite recursion – method never stops calling itself
